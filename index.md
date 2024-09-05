@@ -20,4 +20,4 @@ Hi, I'm Yunbei Zhang, a third-year Ph.D. student in the Department of Computer S
 
 {% include_relative _includes/honors.md %}
 
-{% include_relative _includes/service.md %}
+{% include_relative _includes/services.md %}
