@@ -1,6 +1,6 @@
 ## Honors and Awards
 
-- **Outstanding Teaching Assistant Awards**, Tulane University, 2024
+- **Outstanding Teaching Assistant Award**, Tulane University, 2024
 - **Ichikawa International Scholarship**, Osaka University, 2021
 - **Osaka University Award of Excellence**, 2019
 - **School of Science Honor Scholarship**, Osaka University, 2018-2021
