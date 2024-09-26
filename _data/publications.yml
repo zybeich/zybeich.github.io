@@ -1,4 +1,12 @@
 main:
+  - title: "Understanding the Transferability of Representations via Task-Relatedness"
+    authors: Akshay Mehra, <strong>Yunbei Zhang</strong>, Jihun Hamm
+    conference_short: NeurIPS'24
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference2: Mathematics of Modern Machine Learning Workshop at NeurIPS 2023.
+    pdf: https://arxiv.org/pdf/2307.00823
+    code: https://github.com/hammlab/TaskTransferAnalysis
+    image: ./assets/img/taskrelatedness_fig.png
 
   - title: "OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation"
     authors: <strong>Yunbei Zhang</strong>, Akshay Mehra, Jihun Hamm
@@ -19,15 +27,6 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/dpcore_fig.png
-    notes: Preprint, under review.
-
-  - title: "Analysis of task transferability in large pre-trained classifiers"
-    authors: Akshay Mehra, <strong>Yunbei Zhang</strong>, Jihun Hamm
-    conference_short: Preprint
-    conference: Mathematics of Modern Machine Learning Workshop at NeurIPS 2023.
-    pdf: https://arxiv.org/pdf/2307.00823
-    code: https://github.com/hammlab/TaskTransferAnalysis
-    image: ./assets/img/taskrelatedness_fig.png
     notes: Preprint, under review.
 
   - title: "Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport"
