@@ -8,8 +8,9 @@ Hi, I'm Yunbei Zhang, a third-year Ph.D. student in the Department of Computer S
 
 ## Research Interests
 
-- **Transfer Learning:** test-time adaptation, transferability
-- **Adversarial Machine Learning:** adversarial attack, data poisoning
+- **Trustworthy AI:** Adversarial ML, Privacy and Security in Generative Models.
+- **Transfer Learning:** Domain Adaptation/Generalization, Test-Time Adaptation, Transferability,
+<!-- - **Adversarial Machine Learning:** adversarial attack, data poisoning -->
 
 ## News
 
