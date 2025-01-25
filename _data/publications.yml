@@ -16,7 +16,7 @@ main:
     pdf: https://arxiv.org/pdf/2407.09498
     code: https://github.com/zybeich/OT-VP
     image: ./assets/img/otvp_fig.png
-    notes: Early Accept
+    notes: Oral
 
   - title: "Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation"
     authors: <strong>Yunbei Zhang</strong>, Akshay Mehra, Jihun Hamm
